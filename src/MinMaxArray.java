@@ -22,6 +22,7 @@ public class MinMaxArray {
 
     public static void main(String[] args) {
         int[] arr = {12,4,43,77,34};
+
         int a=maxArray(arr);
         System.out.println("Maximum element of array: "+a);
 
