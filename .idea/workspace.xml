@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecd0a476-00a4-4243-9bc4-e5e8f31f6a7b" name="Changes" comment="String searching using Linear Search">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
+    <list default="true" id="ecd0a476-00a4-4243-9bc4-e5e8f31f6a7b" name="Changes" comment="Binary Search">
+      <change afterPath="$PROJECT_DIR$/src/MinMaxArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.MinMaxArray">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch" />
       <module name="Searching" />
@@ -53,6 +53,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MinMaxArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinMaxArray" />
+      <module name="Searching" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringSearching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringSearching" />
       <module name="Searching" />
@@ -62,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinMaxArray" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.StringSearching" />
         <item itemvalue="Application.LinearSearching" />
@@ -98,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670830002462</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Binary Search">
+      <created>1670831663519</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670831663519</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +131,7 @@
     <MESSAGE value="removed unused" />
     <MESSAGE value="Linear Search" />
     <MESSAGE value="String searching using Linear Search" />
-    <option name="LAST_COMMIT_MESSAGE" value="String searching using Linear Search" />
+    <MESSAGE value="Binary Search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary Search" />
   </component>
 </project>
