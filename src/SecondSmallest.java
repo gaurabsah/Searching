@@ -11,6 +11,9 @@ public class SecondSmallest {
                     arr[j]=temp;
                 }
             }
+            if (i==1){
+                break;
+            }
         }
         System.out.println("Array sorted in Ascending order: "+ Arrays.toString(arr));
 
