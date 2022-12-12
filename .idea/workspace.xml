@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecd0a476-00a4-4243-9bc4-e5e8f31f6a7b" name="Changes" comment="removed unused">
-      <change afterPath="$PROJECT_DIR$/src/LinearSearching.java" afterDir="false" />
+    <list default="true" id="ecd0a476-00a4-4243-9bc4-e5e8f31f6a7b" name="Changes" comment="Linear Search">
+      <change afterPath="$PROJECT_DIR$/src/StringSearching.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StringSearching">
     <configuration name="LinearSearching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinearSearching" />
       <module name="Searching" />
@@ -46,8 +46,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringSearching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringSearching" />
+      <module name="Searching" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringSearching" />
         <item itemvalue="Application.LinearSearching" />
       </list>
     </recent_temporary>
@@ -68,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670828728496</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Linear Search">
+      <created>1670829636216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670829636216</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="removed unused" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed unused" />
+    <MESSAGE value="Linear Search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linear Search" />
   </component>
 </project>
