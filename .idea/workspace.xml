@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecd0a476-00a4-4243-9bc4-e5e8f31f6a7b" name="Changes" comment="Second Smallest Element in array using sorting">
-      <change beforePath="$PROJECT_DIR$/src/SecondLargestArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondLargestArray.java" afterDir="false" />
+    <list default="true" id="ecd0a476-00a4-4243-9bc4-e5e8f31f6a7b" name="Changes" comment="duplicate elements in array using Set interface">
+      <change afterPath="$PROJECT_DIR$/src/DuplicateElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +38,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SecondLargestArray">
+  <component name="RunManager" selected="Application.DuplicateElement">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <module name="Searching" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuplicateElement" />
       <module name="Searching" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,20 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSearching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringSearching" />
-      <module name="Searching" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuplicateElement" />
         <item itemvalue="Application.SecondLargestArray" />
         <item itemvalue="Application.SecondSmallest" />
         <item itemvalue="Application.MinMaxArray" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.StringSearching" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670836560882</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Second Largest Element in array using sorting">
+      <created>1670836636831</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670836636831</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,8 +183,9 @@
     <MESSAGE value="String searching using Linear Search" />
     <MESSAGE value="Binary Search" />
     <MESSAGE value="Max &amp; Min value" />
-    <MESSAGE value="Second Largest Element in array using sorting" />
     <MESSAGE value="Second Smallest Element in array using sorting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Smallest Element in array using sorting" />
+    <MESSAGE value="Second Largest Element in array using sorting" />
+    <MESSAGE value="duplicate elements in array using Set interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="duplicate elements in array using Set interface" />
   </component>
 </project>
