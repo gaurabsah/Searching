@@ -11,6 +11,9 @@ public class SecondLargestArray {
                     arr[j]=temp;
                 }
             }
+            if (i==1){
+                break;
+            }
         }
         System.out.println("Array sorted in descending order: "+Arrays.toString(arr));
 
