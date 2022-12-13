@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecd0a476-00a4-4243-9bc4-e5e8f31f6a7b" name="Changes" comment="second largest element best approach">
-      <change afterPath="$PROJECT_DIR$/src/FindSecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindSecondSmallest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindSecondLargest">
+  <component name="RunManager" selected="Application.FindSecondSmallest">
     <configuration name="DuplicateElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DuplicateElement" />
       <module name="Searching" />
@@ -53,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMaxArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinMaxArray" />
+    <configuration name="FindSecondSmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindSecondSmallest" />
       <module name="Searching" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindSecondSmallest" />
         <item itemvalue="Application.FindSecondLargest" />
         <item itemvalue="Application.DuplicateElement" />
         <item itemvalue="Application.SecondLargestArray" />
         <item itemvalue="Application.SecondSmallest" />
-        <item itemvalue="Application.MinMaxArray" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670839619804</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="second largest element best approach">
+      <created>1670923505341</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670923505341</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
