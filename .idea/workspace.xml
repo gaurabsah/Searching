@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecd0a476-00a4-4243-9bc4-e5e8f31f6a7b" name="Changes" comment="duplicate elements in array using Set interface">
-      <change afterPath="$PROJECT_DIR$/src/DuplicateElement.java" afterDir="false" />
+    <list default="true" id="ecd0a476-00a4-4243-9bc4-e5e8f31f6a7b" name="Changes" comment="second largest element best approach">
+      <change afterPath="$PROJECT_DIR$/src/FindSecondLargest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,22 +32,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.DuplicateElement">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+}</component>
+  <component name="RunManager" selected="Application.FindSecondLargest">
+    <configuration name="DuplicateElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuplicateElement" />
       <module name="Searching" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DuplicateElement" />
+    <configuration name="FindSecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindSecondLargest" />
       <module name="Searching" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindSecondLargest" />
         <item itemvalue="Application.DuplicateElement" />
         <item itemvalue="Application.SecondLargestArray" />
         <item itemvalue="Application.SecondSmallest" />
         <item itemvalue="Application.MinMaxArray" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670836636831</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="duplicate elements in array using Set interface">
+      <created>1670839619804</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670839619804</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +193,7 @@
     <MESSAGE value="Second Smallest Element in array using sorting" />
     <MESSAGE value="Second Largest Element in array using sorting" />
     <MESSAGE value="duplicate elements in array using Set interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="duplicate elements in array using Set interface" />
+    <MESSAGE value="second largest element best approach" />
+    <option name="LAST_COMMIT_MESSAGE" value="second largest element best approach" />
   </component>
 </project>
